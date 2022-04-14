@@ -36,3 +36,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Package Docs
 
+https://chakra-ui.com/guides/first-steps
+
+https://react-query.tanstack.com/overview
+
+https://nextjs.org/docs/getting-started
